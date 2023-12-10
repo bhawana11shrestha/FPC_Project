@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPC_Project\\FPC.WebApi\\FPC.WebApi.csproj": {}
+    "D:\\FPC_Project\\ApexRestaurant.WebApi\\ApexRestaurant.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\FPC_Project\\FPC.WebApi\\FPC.WebApi.csproj": {
+    "D:\\FPC_Project\\ApexRestaurant.WebApi\\ApexRestaurant.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPC_Project\\FPC.WebApi\\FPC.WebApi.csproj",
-        "projectName": "FPC.WebApi",
-        "projectPath": "D:\\FPC_Project\\FPC.WebApi\\FPC.WebApi.csproj",
+        "projectUniqueName": "D:\\FPC_Project\\ApexRestaurant.WebApi\\ApexRestaurant.WebApi.csproj",
+        "projectName": "ApexRestaurant.WebApi",
+        "projectPath": "D:\\FPC_Project\\ApexRestaurant.WebApi\\ApexRestaurant.WebApi.csproj",
         "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-        "outputPath": "D:\\FPC_Project\\FPC.WebApi\\obj\\",
+        "outputPath": "D:\\FPC_Project\\ApexRestaurant.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s\\AppData\\Roaming\\NuGet\\NuGet.Config"
